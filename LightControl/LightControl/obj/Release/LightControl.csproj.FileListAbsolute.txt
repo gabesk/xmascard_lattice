@@ -1,0 +1,14 @@
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.csprojAssemblyReference.cache
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\MainWindow.g.cs
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\App.g.cs
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\MainWindow.baml
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.csproj.GenerateResource.cache
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.csproj.CoreCompileInputs.cache
+C:\Users\gabe\source\repos\LightControl\LightControl\bin\Release\LightControl.exe
+C:\Users\gabe\source\repos\LightControl\LightControl\bin\Release\LightControl.pdb
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl_MarkupCompile.cache
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl_MarkupCompile.lref
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.g.resources
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.Properties.Resources.resources
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.exe
+C:\Users\gabe\source\repos\LightControl\LightControl\obj\Release\LightControl.pdb
