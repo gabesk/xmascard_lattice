@@ -4,8 +4,28 @@ module lights(
     input rx,
     output tx,
 
-    output [23:0] leds
+    output [23:0] leds,
+
+    output [5:0] user_io,
+    
+    input ble_rxi,
+    output ble_txo,
+  
+    input esp_rxi,
+    output esp_txo,
+    
+    output cs_n,
+    output sclk,
+    output mosi,
+    input miso
 );
+
+    assign user_io = 6'b000000;
+    assign ble_txo = 1;
+    assign esp_txo = 1;
+    assign cs_n = 1;
+    assign sclk = 0;
+    assign mosi = 0;
 
     // The incoming 14.7 MHz clock is too fast for changing animation patterns or generating a twinkle effect, so divide it into something slower.
     wire tick;
