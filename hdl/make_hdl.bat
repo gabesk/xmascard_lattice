@@ -13,7 +13,7 @@ REM
 REM     make_hdl.bat top_module file1.v file2.v file3.v
 REM 
 
-SET ICESTORM_TOOLCHAIN=%HOMEPATH%\.apio\packages\toolchain-icestorm\bin
+SET ICESTORM_TOOLCHAIN=%HOMEDRIVE%\%HOMEPATH%\.apio\packages\toolchain-icestorm\bin
 
 IF NOT EXIST %ICESTORM_TOOLCHAIN% GOTO NOT_FOUND_ERROR
 
@@ -53,6 +53,8 @@ ECHO.
 ECHO ###############################################################################
 ECHO SUCCESS
 ECHO ###############################################################################
+
+..\spi\spi_programmer_115200.py com5 hardware.bin
 
 GOTO END
 
